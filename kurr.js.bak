@@ -1468,7 +1468,7 @@ case 'sound1':
 case "virtex":
    if (!isOwner && !mek.key.fromMe) return reply(mess.own) 
 sendButMessage(from, `Virtex ini akan membuat hape kamu lagg,
-Silahkan pilih, apakah kamu mau aku kirim virtex?`, `Virtex By ©𝒀𝒖𝒌𝒊𝑪𝒉𝒂𝒏❀`, [
+Silahkan pilih, apakah kamu mau aku kirim virtex?`, `Virtex By @sofunsyabi.id`, [
           {
             buttonId: `${prefix}svirtex`,
             buttonText: {
