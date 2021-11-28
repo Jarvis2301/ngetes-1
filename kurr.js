@@ -1639,7 +1639,10 @@ case 'allmenu':
 冬 ${prefix}puki
 冬 ${prefix}pantexpantek
 │
+─❒ WAR MENU
+冬 ${prefix}virtex
 ─❒ OWNER
+│
 冬 ${prefix}autorespon [ _on/off_ ]
 冬 ${prefix}bc [ _teks/reply gif/image/video with caption_ ]
 冬 ${prefix}tobc [ _reply sticker/audio with caption_ ]
